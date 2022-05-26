@@ -1,5 +1,3 @@
-
 Flavio
 Jackson
-
-cat < ListaConvidados.txt
+Michael
