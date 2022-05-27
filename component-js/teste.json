@@ -1,0 +1,7 @@
+// JSON syntax
+{
+    "name": “Flavio”,
+    "age": 77,
+    "gender": "male",
+
+}
